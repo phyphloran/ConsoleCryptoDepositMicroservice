@@ -16,5 +16,5 @@
 4. Добавить Jar-файл в библиотеки проекта(Project Structure -> + -> Java -> Выбрать gson-2.10.1.jar)
 5. Создать приложение в https://t.me/send и получить API TOKEN
 6. Открыть класс CONST и вставить свой токен сюда private static final String API_KEY_CRYPTOBOT = "Вставьте ваш токен";
-7. Запустить приложение 
+7. Запустить консольное приложение в IDE 
 
